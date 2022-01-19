@@ -19,6 +19,7 @@ cmake-build-release*/**
 **/cmake-build-*/**
 
 /**/*.log
+/**/*.log.*
 /**/*.*~
 /docs/dxfeed*/
 **/*.swp
